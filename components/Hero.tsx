@@ -21,7 +21,7 @@ export default function Hero() {
         <Button size="lg" className="mr-4">
           Our Services
         </Button>
-        <Button size="lg" variant="outline">
+        <Button size="lg" variant={"secondary"}>
           Contact Us
         </Button>
       </div>
